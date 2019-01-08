@@ -1,0 +1,11 @@
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\bin\Debug\netcoreapp2.1\MethodsExercises.deps.json
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\bin\Debug\netcoreapp2.1\MethodsExercises.runtimeconfig.json
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\bin\Debug\netcoreapp2.1\MethodsExercises.runtimeconfig.dev.json
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\bin\Debug\netcoreapp2.1\MethodsExercises.dll
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\bin\Debug\netcoreapp2.1\MethodsExercises.pdb
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\obj\Debug\netcoreapp2.1\MethodsExercises.csprojAssemblyReference.cache
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\obj\Debug\netcoreapp2.1\MethodsExercises.csproj.CoreCompileInputs.cache
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\obj\Debug\netcoreapp2.1\MethodsExercises.AssemblyInfoInputs.cache
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\obj\Debug\netcoreapp2.1\MethodsExercises.AssemblyInfo.cs
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\obj\Debug\netcoreapp2.1\MethodsExercises.dll
+C:\Users\abbasm\Source\repos\AALearn\MethodsPractise\MethodsExercises\MethodsExercises\obj\Debug\netcoreapp2.1\MethodsExercises.pdb
